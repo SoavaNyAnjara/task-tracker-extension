@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Task Tracker Extension",
   "version": "1.0.0",
-  "description": "Suivi de tâches (Production, Pause, Formation) avec horodatage local.",
+  "description": "Suivi de tâches (Production, Pause, Formation, Ostie) avec horodatage local.",
   "action": {
     "default_popup": "index.html",
     "default_icon": "icon.png"

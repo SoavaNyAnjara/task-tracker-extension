@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { getCurrentTask } from '../storage'
 
-const TASKS = ['Production', 'Pause', 'Formation']
+const TASKS = ['Production', 'Pause', 'Formation', 'Ostie']
 
 export default function TaskSelector() {
   const [currentTask, setCurrentTask] = useState(null)

@@ -1,1 +1,8 @@
 https://chatgpt.com/share/68a5d393-451c-800c-8572-34011d676406
+
+Problème de compatibilité avec node 
+
+Nettoie et réinstalle les dépendances :
+
+rm -rf node_modules package-lock.json
+npm install

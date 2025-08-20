@@ -1,0 +1,55 @@
+/* Simple style minimaliste pour la popup */
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 12px;
+  width: 320px;     /* bonne largeur pour popup */
+  min-height: 400px;
+  box-sizing: border-box;
+}
+
+h2, h3 {
+  margin: 8px 0;
+}
+
+.input,
+select,
+button {
+  width: 100%;
+  padding: 8px;
+  margin: 6px 0;
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  gap: 8px;
+}
+
+.badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 8px;
+  background: #eef3ff;
+  font-size: 12px;
+}
+
+.list {
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.list li {
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+  font-size: 13px;
+}
+
+.small {
+  font-size: 12px;
+  color: #666;
+}

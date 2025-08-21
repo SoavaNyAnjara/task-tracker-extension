@@ -6,3 +6,5 @@ Nettoie et réinstalle les dépendances :
 
 rm -rf node_modules package-lock.json
 npm install
+
+cdc link google form : https://docs.google.com/forms/d/e/1FAIpQLSfgj4PVhGV7tJI8TJWiOdgQ1-vxpn-_LexlDU7c1VoHVCGHQg/viewform?usp=dialog

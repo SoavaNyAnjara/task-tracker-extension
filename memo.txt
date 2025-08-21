@@ -9,4 +9,4 @@ npm install
 
 cdc link google form : https://docs.google.com/forms/d/e/1FAIpQLSfgj4PVhGV7tJI8TJWiOdgQ1-vxpn-_LexlDU7c1VoHVCGHQg/viewform?usp=dialog
 
-docs : https://docs.google.com/document/d/1_T0zDkI9ADNaGc5IS9PmvBe5zLqq-HFSS6onTqng7Tg/edit?tab=t.0
+docs : https://docs.google.com/document/d/1_T0zDkI9ADNaGc5IS9PmvBe5zLqq-HFSS6onTqng7Tg/edit?usp=sharing
